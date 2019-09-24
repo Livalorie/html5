@@ -8,7 +8,7 @@ _____
 
 if(!this.alreadyExecuted){<br/>
 this.alreadyExecuted=true;<br/>
-this.loopNum=0;<br/>
+this.loopNum=1;<br/>
 } else {<br/>
 this.loopNum++;<br/>
 if(this.loopNum==2){<br/>
